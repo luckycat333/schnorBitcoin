@@ -1,0 +1,20 @@
+{
+    "$schema": "./users_schema.json",
+    "users": [
+        {
+            "privateKey": "77e19eac9ac87b8d3c30eb478a6cbe413ef491fcdacedcd8ae3c3d12a03c30e5",
+            "publicKey": "6ea451d9476bbe089828e3065c1c51826dd3d7bcbaf76fcef7ce22d94e642d58",
+            "p2trAddress": "tb1pd6j9rk28dwlq3xpguvr9c8z3sfka84auhtmklnhhec3djnny94vqhkpfpv"
+        },
+        {
+            "privateKey": "3f88a9c1ffa041e74612bbb7bb3481784ca5dd3987ba266eee1e8534496e83bc",
+            "publicKey": "4db8761da7c73b524ee3efe73c8330b0f14f0ddcfff6a64c616532fc16b440a3",
+            "p2trAddress": "tb1pfku8v8d8cua4ynhralnneqeskrc57rwullm2vnrpv5e0c945gz3sycx77a"
+        },
+        {
+            "privateKey": "6647a05375fc4825dfcede659645be529d467578d307f46dc378419f89708abd",
+            "publicKey": "7899e8065422dfe5594864635ce883580f381bf9dc08c7ffffa0b0cc0e7234f9",
+            "p2trAddress": "tb1p0zv7spj5yt072k2gv334e6yrtq8nsxlemsyv0lll5zcvcrnjxnusrrpt6j"
+        }
+    ]
+}
